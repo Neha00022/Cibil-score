@@ -40,7 +40,7 @@ CIBIL-Score-Project/
 
 ⚙️ Installation & Setup
 1️⃣ Clone the repository
-git clone https://github.com/your-username/cibil-score-project.git
+git clone(https://github.com/Neha00022/Cibil-score.git)
 cd cibil-score-project
 2️⃣ Install dependencies
 Backend:
