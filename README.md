@@ -13,6 +13,7 @@ This project is designed to simulate how credit scoring systems work. It analyze
 ⚡ Real-time result display
 📊 Simple and user-friendly UI
 💾 Data handling (optional DB integration)
+
 🛠️ Tech Stack
 Frontend:
 React.js / HTML / CSS / JavaScript
@@ -24,6 +25,7 @@ MongoDB
 Other Tools:
 Axios (API calls)
 Git & GitHub
+
 📂 Project Structure
 CIBIL-Score-Project/
 │
@@ -35,6 +37,7 @@ CIBIL-Score-Project/
 ├── .env             # Environment variables
 ├── package.json
 └── README.md
+
 ⚙️ Installation & Setup
 1️⃣ Clone the repository
 git clone https://github.com/your-username/cibil-score-project.git
@@ -51,6 +54,7 @@ Start Backend:
 npm start
 Start Frontend:
 npm start
+
 📌 How It Works
 User enters financial details like:
 Income
@@ -63,6 +67,7 @@ Result is displayed on the UI
 📊 Sample Output
 Your Estimated CIBIL Score: 745
 Status: Good Credit Score ✅
+
 📌 Assumptions
 Data entered by user is accurate
 Simplified scoring logic is used (not actual bank algorithm)
