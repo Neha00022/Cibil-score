@@ -88,7 +88,7 @@ No real credit bureau integration
 
 🙌 Author
 
-Your Name
+NEHA RAJPUT
 
 💼 Developer | MERN Stack
 🌐 Passionate about building real-world applications
